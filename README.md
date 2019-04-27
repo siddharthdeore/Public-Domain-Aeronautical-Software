@@ -19,6 +19,10 @@ List of Public domain aeronautical software maintained by pdas www.pdas.com and 
 <div>An extremely fast and flexible C++ simulation engine and differential equation solver. <strong>&nbsp;/&nbsp;ODE Integrator</strong></div>
 </li>
 <li>
+<div><a href="https://github.com/openastro/astro">Astro</a></div>
+<div>astro is a header-only, C++ (template) library that provides basic astrodynamics functionality. It is intended to be lightweight and simple to use in other projects.  <strong>&nbsp;/&nbsp;ASTROTK</strong></div>
+</li>
+<li>
 <div><a href="http://www.pdas.com/aipp.html">Atmospheric interaction plume</a></div>
 <div>Predict the gas dynamic and chemical properties of underexpanded rocket plumes. <span class="wip">(work-in-progress)</span> <strong>&nbsp;/&nbsp;AIPP</strong></div>
 </li>
